@@ -1,0 +1,335 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start*/
+  
+.menu ul li a {
+    text-align: right;
+    padding: 10px 0 0 !important;
+}
+
+.s_icon {
+    text-align: right;
+    margin-right: -16px!important;
+}
+
+.s_icon ul li a i{
+	
+    padding: 10px 8px 0px!important;
+}
+
+/*home content start*/
+
+.left_con {
+    margin-left: -11px;
+}
+
+.left_con img {
+    width: 123%;
+    
+}
+
+.c_topic{
+	font-size: 18px!important;
+}
+.btn-cmn1 {
+    font-size: 18px!important;
+    
+}
+
+/*title name*/
+.a_h2 {
+    
+    font-size: 25px!important;
+}
+
+/*about*/
+
+.a_img img {
+    width: 75%!important;
+}
+
+.a_text p {
+    font-size: 16px!important;
+   
+}
+
+/*post*/
+
+.r_p {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.r_p h4 {
+    font-size: 13px!important;
+    width: 50%!important;
+    margin-left: 145px!important;
+}
+
+/*ads*/
+
+.adv_c p {
+    padding: 60px;
+}
+
+/*follow*/
+
+.f_c a {
+    font-size: 40px!important;
+    
+}
+
+/*home content end*/
+
+
+/*details start*/
+
+.single_blog {
+   margin-bottom: 30px;
+    
+}
+
+.blog h2 {
+    
+    font-size: 25px!important;
+    
+}
+
+.blog_content p {
+   
+    font-size: 14px!important;
+}
+
+/*details end*/
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*header start*/
+  
+.menu ul li a {
+    text-align: right;
+    padding: 10px 0 0 !important;
+}
+
+.s_icon {
+    text-align: right;
+    margin-right: -16px!important;
+}
+
+.s_icon ul li a i{
+	
+    padding: 10px 8px 0px!important;
+}
+
+/*home content start*/
+
+.left_con {
+    margin-left: -11px;
+}
+
+.left_con img {
+    width: 123%;
+    
+}
+
+.c_topic{
+	font-size: 18px!important;
+}
+.btn-cmn1 {
+    font-size: 18px!important;
+    
+}
+
+/*about*/
+
+.a_img img {
+    width: 75%!important;
+}
+
+.a_text p {
+    font-size: 16px!important;
+   
+}
+
+/*post*/
+
+.r_p {
+    padding-top: 10px;
+    padding-bottom: 45px;
+}
+.r_p h4 {
+    font-size: 16px;
+    width: 58%;
+    margin-left: 150px;
+}
+
+/*follow*/
+
+.f_c a {
+    font-size: 50px!important;
+    
+}
+
+/*home content end*/
+
+
+/*details start*/
+
+.single_blog {
+   margin-bottom: 30px;
+    
+}
+
+.blog h2 {
+    
+    font-size: 30px;
+    
+}
+
+.blog_content p {
+   
+    font-size: 14px!important;
+}
+
+/*details end*/
+
+
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start*/
+  
+.menu ul li a {
+    text-align: right;
+    padding: 10px 0 0 !important;
+}
+
+.s_icon {
+    text-align: right;
+    margin-right: -16px!important;
+}
+
+.s_icon ul li a i{
+	font-size: 18px;
+    padding: 10px 8px 0px!important;
+}
+
+/*home content start*/
+
+.left_con {
+    margin-left: -11px;
+}
+
+.left_con img {
+    width: 123%;
+    
+}
+
+.c_topic{
+	font-size: 18px!important;
+}
+.btn-cmn1 {
+    font-size: 18px!important;
+    
+}
+
+/*about*/
+
+.a_img img {
+    width: 75%!important;
+}
+
+.a_text p {
+    font-size: 16px!important;
+   
+}
+
+/*post*/
+
+.r_p {
+    padding-top: 10px;
+    padding-bottom: 45px;
+}
+.r_p h4 {
+    font-size: 16px;
+    width: 58%;
+    margin-left: 150px;
+}
+
+/*follow*/
+
+.f_c a {
+    font-size: 50px!important;
+    
+}
+
+/*home content end*/
+
+
+/*details start*/
+
+.single_blog {
+    margin-bottom: 30px;
+    
+}
+
+
+/*details end*/
+
+
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*home content start*/
+
+.left{
+	width: 40%;
+}
+
+.left_con img {
+    width: 115%;
+    height: 445px;
+}
+
+.right {
+	margin-right: 0px;
+    width: 50%;
+}
+
+/*home content end*/
+
+
+ }
+
+ /*popular post*/
+
+ .r_p h4{
+ 	font-size: 15px;
+    width: 49%;
+    margin-left: 143px;
+ }
+
+ /*follow*/
+
+ .f_c a {
+    font-size: 40px;
+    margin: 8px;
+}
+
+/* Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+/*follow start*/
+.f_c a {
+    font-size: 42px;
+    margin: 12px;
+}
+/*follow end*/
+	
+
+/* Extra Extra large devices (extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+
+ }
